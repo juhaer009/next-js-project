@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "export": "next build",
+    "deploy": "npm run build && echo 'Build complete! Deploy the out/ folder to Netlify'"
   },
   "dependencies": {
     "next": "16.1.3",

@@ -39,15 +39,17 @@ A modern, responsive fashion ecommerce website built with Next.js 16 and Tailwin
 - **Icons**: Fashion-focused emojis and SVG icons
 - **Hover Effects**: Smooth transitions and interactive elements
 
-## 🔐 Authentication System
+## 🔐 **Authentication System**
 
 StyleVault includes a mock authentication system for demonstration purposes:
 
-### Demo Credentials
+### **Demo Credentials**
 - **Email**: `user@stylevault.com`
 - **Password**: `StyleVault123`
 
-### Features
+- **Password**: `StyleVault123`
+
+### **Features**
 - **Login/Logout**: Full authentication flow with form validation
 - **Protected Routes**: Account page accessible only when logged in
 - **Persistent Sessions**: Login state maintained using localStorage
